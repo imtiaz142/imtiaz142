@@ -22,7 +22,7 @@ I'm **Imtiaz Ali**, a **Full Stack AI Engineer** specialising in building intell
 With deep expertise in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **AI Agents**, and **full stack web development**, I bridge the gap between research-grade AI and real-world product delivery.
 
 - 🔭 Currently building AI-powered SaaS products and intelligent automation tools
-- 🤖 Specialised in LLM integration, AI chatbots, RAG pipelines, and agentic workflows
+- 🤖 Specialised in LLM integration, AI Employees, RAG pipelines, and agentic workflows
 - 🌐 Delivering full stack solutions with React, Next.js, Node.js, Python & FastAPI
 - 💡 Passionate about turning complex AI capabilities into intuitive user experiences
 - 📍 Available for freelance projects, consulting, and long-term collaborations
@@ -78,7 +78,7 @@ With deep expertise in **Large Language Models (LLMs)**, **Retrieval-Augmented G
 
 | 🔗 Project | 📋 Description | 🛠️ Stack |
 |-----------|---------------|---------|
-| [AI Chatbot SaaS](https://github.com/imtiaz142/project-1) | Production-ready AI chatbot platform with multi-tenant support and custom knowledge base ingestion | Next.js · OpenAI · LangChain · Supabase |
+| [AI Employee](https://github.com/imtiaz142/project-1) | Production-ready AI Employee platform with multi-tenant support and custom knowledge base ingestion | Next.js · OpenAI · LangChain · Supabase |
 | [RAG Document Q&A](https://github.com/imtiaz142/project-2) | Upload PDFs and query them intelligently using vector search and LLM-powered answers | Python · FastAPI · Pinecone · LlamaIndex |
 | [AI Agent Workflow](https://github.com/imtiaz142/project-3) | Autonomous multi-step AI agent that plans, searches, and executes tasks end-to-end | LangChain Agents · OpenAI · Node.js · React |
 | [Full Stack SaaS Boilerplate](https://github.com/imtiaz142/project-4) | Scalable SaaS starter with auth, payments, dashboards and AI feature integration | Next.js · TypeScript · Stripe · PostgreSQL |
@@ -110,7 +110,7 @@ With deep expertise in **Large Language Models (LLMs)**, **Retrieval-Augmented G
 ## 💼 What I Build
 
 ```text
-🤖  LLM-Powered Applications       ████████████████████  AI Chatbots, Copilots, Assistants
+🤖  LLM-Powered Applications       ████████████████████  AI Employees, Copilots, Assistants
 🔍  RAG Pipelines & Vector Search  ███████████████████░  Document Q&A, Knowledge Bases
 🌐  Full Stack Web Apps            ████████████████████  SaaS, Dashboards, Portals
 ⚙️  AI Agents & Automation        █████████████████░░░  Agentic Workflows, Task Automation
@@ -123,7 +123,7 @@ With deep expertise in **Large Language Models (LLMs)**, **Retrieval-Augmented G
 
 I'm available for **freelance projects**, **consulting**, and **long-term collaborations** in:
 
-- 🤖 AI chatbot and assistant development
+- 🤖 AI Employee development and deployment
 - 🔗 LLM & OpenAI API integration into existing products
 - 🏗️ Full stack web application development (React, Next.js, Node.js, Python)
 - 📦 RAG systems and custom knowledge base solutions
