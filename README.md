@@ -70,18 +70,7 @@ With deep expertise in **Large Language Models (LLMs)**, **Retrieval-Augmented G
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
----
 
-## 🚀 Featured Projects
-
-> ✏️ **Replace the placeholders below with your real project names, descriptions, and repo links.**
-
-| 🔗 Project | 📋 Description | 🛠️ Stack |
-|-----------|---------------|---------|
-| [AI Employee](https://github.com/imtiaz142/project-1) | Production-ready AI Employee platform with multi-tenant support and custom knowledge base ingestion | Next.js · OpenAI · LangChain · Supabase |
-| [RAG Document Q&A](https://github.com/imtiaz142/project-2) | Upload PDFs and query them intelligently using vector search and LLM-powered answers | Python · FastAPI · Pinecone · LlamaIndex |
-| [AI Agent Workflow](https://github.com/imtiaz142/project-3) | Autonomous multi-step AI agent that plans, searches, and executes tasks end-to-end | LangChain Agents · OpenAI · Node.js · React |
-| [Full Stack SaaS Boilerplate](https://github.com/imtiaz142/project-4) | Scalable SaaS starter with auth, payments, dashboards and AI feature integration | Next.js · TypeScript · Stripe · PostgreSQL |
 
 ---
 
