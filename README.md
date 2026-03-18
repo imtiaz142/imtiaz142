@@ -74,28 +74,6 @@ With deep expertise in **Large Language Models (LLMs)**, **Retrieval-Augmented G
 
 ---
 
-## 🎥 Client Testimonials
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=10lVeen4lXU" target="_blank">
-    <img src="https://img.youtube.com/vi/10lVeen4lXU/mqdefault.jpg" width="48%" alt="Client Testimonial 1" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=iLEjbZJfXlo" target="_blank">
-    <img src="https://img.youtube.com/vi/iLEjbZJfXlo/mqdefault.jpg" width="48%" alt="Client Testimonial 2" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=jJ_N_U8pL3s" target="_blank">
-    <img src="https://img.youtube.com/vi/jJ_N_U8pL3s/mqdefault.jpg" width="48%" alt="Client Testimonial 3" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=6ogwPNTMjbI" target="_blank">
-    <img src="https://img.youtube.com/vi/6ogwPNTMjbI/mqdefault.jpg" width="48%" alt="Client Testimonial 4" />
-  </a>
-</p>
-
----
-
 ## 💼 What I Build
 
 ```text
