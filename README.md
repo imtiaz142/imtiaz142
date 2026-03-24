@@ -1,18 +1,6 @@
 <h1 align="center">Hi, I'm Imtiaz Ali 👋</h1>
 <h3 align="center">Full Stack AI Engineer · LLM Integration Specialist · AI-Powered Web App Developer</h3>
 
-<p align="center">
-  <a href="https://fullstackaiengineerpro.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-fullstackaiengineerpro.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/imtiaz142" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-imtiaz142-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://fullstackaiengineerpro.com/contact" target="_blank">
-    <img src="https://img.shields.io/badge/Hire%20Me-Let's%20Work%20Together-22c55e?style=for-the-badge&logo=handshake&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -26,7 +14,6 @@ With deep expertise in **Large Language Models (LLMs)**, **Retrieval-Augmented G
 - 🌐 Delivering full stack solutions with React, Next.js, Node.js, Python & FastAPI
 - 💡 Passionate about turning complex AI capabilities into intuitive user experiences
 - 📍 Available for freelance projects, consulting, and long-term collaborations
-- 🌐 Portfolio & Services → [fullstackaiengineerpro.com](https://fullstackaiengineerpro.com)
 
 ---
 
@@ -96,15 +83,5 @@ I'm available for **freelance projects**, **consulting**, and **long-term collab
 - 📦 RAG systems and custom knowledge base solutions
 - 🚀 AI-powered SaaS product development from scratch
 
-<p align="center">
-  <a href="https://fullstackaiengineerpro.com/contact">
-    <img src="https://img.shields.io/badge/📬%20Get%20In%20Touch-Fill%20the%20Contact%20Form-22c55e?style=for-the-badge" />
-  </a>
-</p>
 
 ---
-
-<p align="center">
-  <i>"Building the future, one intelligent application at a time."</i><br/><br/>
-  <a href="https://fullstackaiengineerpro.com">🌐 fullstackaiengineerpro.com</a>
-</p>
