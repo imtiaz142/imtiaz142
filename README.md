@@ -5,7 +5,7 @@
 
 ## 🧠 About Me
 
-I'm **Imtiaz Ali**, a **Full Stack AI Engineer** specialising in building intelligent, production-ready web applications that combine cutting-edge AI with robust engineering. I design and ship end-to-end systems — from interactive frontends to scalable AI backends — helping businesses automate, scale, and innovate with modern technology.
+I'm **Imtiaz Ali**, a **Full Stack Software Engineer** specialising in building intelligent, production-ready web applications that combine cutting-edge AI with robust engineering. I design and ship end-to-end systems — from interactive frontends to scalable  backends — helping businesses automate, scale, and innovate with modern technology.
 
 With deep expertise in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **AI Agents**, and **full stack web development**, I bridge the gap between research-grade AI and real-world product delivery.
 
