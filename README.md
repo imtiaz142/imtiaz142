@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Imtiaz Ali 👋</h1>
-<h3 align="center">Full Stack AI Engineer · LLM Integration Specialist · AI-Powered Web App Developer</h3>
+<h3 align="center">Skilled software engineer specializing in high-performance full-stack web applications.</h3>
 
 ---
 
